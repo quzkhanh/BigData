@@ -1,0 +1,26 @@
+SVID Name Gender Class Subject MidResult FinalResult Semester Year
+1 Dung Male 70DCTT22 BigData 7 8 8 2023
+1 Dung Male 70DCTT22 English 6 8 8 2023
+1 Dung Male 70DCTT21 Database 4 4 4 2021
+1 Dung Male 70DCTT21 MathAdvance 4 8 2 2020
+2 Cung Male 70DCTT23 BigData 9 9 8 2023
+2 Cung Male 70DCTT23 English 5 7 8 2023
+2 Cung Male 70DCTT23 Database 2 5 4 2021
+2 Cung Male 70DCTT23 MathAdvance 1 1 2 2020
+3 Hoa Female 70DCTT23 BigData 5 5 8 2023
+3 Hoa female 70DCTT23 English 9 9 8 2023
+3 Hoa Female 70DCTT23 Database 5 1 4 2021
+3 Hoa Female 70DCTT23 MathAdvance 1 9 2 2020
+4 Linh Female 70DCTT23 BigData 5 5 8 2023
+4 Linh female 70DCTT23 ComputerBasic 7 9 3 2021
+4 Linh Female 70DCTT23 Database 5 1 4 2021
+4 Linh Female 70DCTT23 MathAdvance 5 9 2 2020
+5 Tien Male 70DCTT23 BigData 5 6 8 2023
+5 Tien male 70DCTT23 ComputerBasic 7 9 3 2021
+5 Tien Male 70DCTT23 Database 5 1 4 2021
+5 Tien Male 70DCTT24 MathAdvance 5 1 2 2020
+6 Linh Male 70DCTT23 BigData 1 1 8 2023
+6 Linh Male 70DCTT23 English 1 1 8 2023
+6 Linh Male 70DCTT23 Database 2 2 4 2021
+6 Linh Male 70DCTT23 MathAdvance 2 2 2 2020
+

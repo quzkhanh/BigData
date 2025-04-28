@@ -64,6 +64,7 @@ avg_female_12 = df.filter((col("ClassID") == 12) & (col("Gender") == "Female")).
 print(f"14. Điểm trung bình nữ lớp 12: {avg_female_12}")
 
 # 15. Điểm trung bình của 1 bạn (giả sử tính trung bình tất cả các bạn)
+# dùng dataframe, còn thầy yêu cầu dùng rdd
 avg_per_student = df.groupBy("Name").agg(avg("Achievement").alias("avg_score"))
 print("15. Điểm trung bình của từng học sinh:")
 avg_per_student.show()
